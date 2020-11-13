@@ -28,6 +28,10 @@ a {
   color: #D90368;
   text-decoration: underline;
 }
+#google-drive-link {
+  word-wrap: break-word;
+}
+
 
 .content {
   max-width: 1200px;
